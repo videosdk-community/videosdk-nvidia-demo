@@ -1,0 +1,6 @@
+videosdk-agents
+videosdk-plugins-nvidia
+videosdk-plugins-google
+videosdk-plugins-deepgram
+videosdk-plugins-silero
+videosdk-plugins-turn-detector
