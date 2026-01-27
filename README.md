@@ -17,7 +17,7 @@ This example demonstrates how to build a voice AI agent using **VideoSDK** aimed
 Before running the project, ensure you have the following:
 
 - **Python 3.10+** installed on your machine.
-- **VideoSDK Account**: Get your [Auth Token](https://videosdk.live/).
+- **VideoSDK Account**: Get your [Auth Token](https://dub.sh/zXYQt7V).
 - **NVIDIA API Key**: Sign up for [NVIDIA NIM](https://build.nvidia.com/explore) to access TTS models.
 - **Deepgram API Key**: [Sign up here](https://console.deepgram.com/).
 - **Google Gemini API Key**: [Get it here](https://aistudio.google.com/).
