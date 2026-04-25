@@ -58,7 +58,8 @@ Before running the project, ensure you have the following:
     ```env
     DEEPGRAM_API_KEY="your_deepgram_api_key"
     GOOGLE_API_KEY="your_google_api_key"
-    VIDEOSDK_AUTH_TOKEN="your_videosdk_auth_token"
+    VIDEOSDK_API_KEY="your_videosdk_api_key"
+    VIDEOSDK_SECRET_KEY="your_videosdk_secret_key"
     NVIDIA_API_KEY="your_nvidia_api_key"
     ```
 
